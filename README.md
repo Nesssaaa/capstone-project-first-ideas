@@ -12,11 +12,12 @@ Learning-App using flash-cards
 
 - you have a data set with different words
 - you can create your own entries, e.g. word in english and german
-- Are necessary for the app to work as intended: 
-on click, the flash card reveals the answer
-the answer-card has two buttons
-the one button "keep learning" keeps the flash card in the learning-folder "Select Words to Learn"
-the other button "Answer known" puts the flash card in the folder "Show learned Words"
+  
+  ### Are necessary for the app to work as intended: 
+- on click, the flash card reveals the answer
+- the answer-card has two buttons
+- the one button "keep learning" keeps the flash card in the learning-folder "Select Words to Learn"
+- the other button "Answer known" puts the flash card in the folder "Show learned Words"
 
 
 ## Nice-to-have Features
