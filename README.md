@@ -10,6 +10,8 @@ Learning-App using flash-cards
 
 ## Main Features
 
+(mvp: minimal viable product)
+
 - you have a data set with different words
 - you can create your own entries, e.g. word in english and german
   
@@ -32,4 +34,4 @@ Learning-App using flash-cards
 
 
 
-mvp: minimal viable product
+
